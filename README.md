@@ -7,3 +7,5 @@ the theory in practice.
 
 9 of the problems I solved were web exploitation problems. I also solved 1 cryptography problem. Hopefully these writeups are useful to someone, I know I had a great time
 figuring them out.
+
+You can see the final scoreboard here: https://ctf.hackthebox.com/ctf/177/scoreboard
