@@ -1,0 +1,10 @@
+.container {
+    width: 85% !important;
+    max-width: 100% !important;
+    height: 60% !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 100px !important;
+}
